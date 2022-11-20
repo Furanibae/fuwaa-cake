@@ -1,0 +1,7 @@
+.carrito{
+    color: white;
+}
+
+.carrito:hover{
+    color: brown;
+}

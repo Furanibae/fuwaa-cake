@@ -1,0 +1,24 @@
+.nosotros{
+    height: 500px;
+    color: white;
+    background-color: #CE7578;
+    
+}
+.nos{
+    padding-top: 10%;
+    font-size:75px;
+}
+
+.textonosotros{
+    text-align: justify;
+}
+
+.containernos{
+    padding-left:20%;
+}
+
+.imgnos1{
+    
+    border-radius: 50%;
+    margin-left: 5%;
+}

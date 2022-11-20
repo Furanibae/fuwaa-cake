@@ -1,0 +1,25 @@
+.cake2{
+    width: 70%;
+}
+
+.detalle{
+   color: #CE7578;
+}
+.accordion-button{
+    color: #CE7578;
+}
+
+.display-det{
+       display: flex;
+    justify-content: center; 
+}
+
+.display-det-2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.btn-size{
+    width: 50%;
+}

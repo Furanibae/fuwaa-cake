@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "name": "Torta de Rosas",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img": "https://www.wilton.com/dw/image/v2/AAWA_PRD/on/demandware.static/-/Sites-wilton-project-master/default/dw430dfd8a/images/project/WLPROJ-6599/So-Sweet-Pink-Roses-Cake.jpg?sw=800&sh=800",
+      "precio": "20.000",
+      "favorito": false
+  
+    },
+    {
+        "id":2,
+        "name": "Torta de arcoiris",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "img": "https://food-images.files.bbci.co.uk/food/recipes/rainbow_cake_20402_16x9.jpg",
+        "precio": "30.000",
+        "favorito": false
+       
+  
+    },
+    {
+        "id":3,
+        "name": "Torta de unicornio",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "img": "https://sugargeekshow.com/wp-content/uploads/2019/04/unicorn-cake-tutorial-featured-copy.jpg",
+        "precio": "20.000",
+        "favorito": false
+       
+  
+    },
+    {
+        "id":4,
+        "name": "Torta de dinosaurios",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "img": "https://d2g2gko594h1qv.cloudfront.net/533-large_default/dinosaurio.jpg",
+        "precio": "45.000",
+        "favorito": false
+  
+    },
+    {
+        "id":5,
+        "name": "Torta espacial",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "img": "https://ae01.alicdn.com/kf/H28acac1ee2eb4448ac86b02f263a9b4bI/Universe-Stars-Rocket-Astronaut-Moon-Happy-Birthday-Letter-Decoration-Cake-Topper-Dessert-for-Children-s-Day.jpg",
+        "precio": "25.000",
+        "favorito": false
+        
+    },
+    {
+        "id":6,
+        "name": "Torta de chocolate",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "img": "https://cdn.shopify.com/s/files/1/0410/5948/3805/products/DSC07081_1024x.jpg?v=1626171914",
+        "precio": "20.000",
+        "favorito": false
+  
+    },
+    {
+        "id":7,
+        "name": "Torta de tres leches",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "img": "https://cocinachilena.cl/wp-content/uploads/2011/01/torta-tres-leches-14.jpg",
+        "precio": "20.000",
+        "favorito": false
+    }
+    
+  ]

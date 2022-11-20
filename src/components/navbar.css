@@ -1,0 +1,16 @@
+.navbar{
+    background-color: #CE7578;
+    width: 100%;
+    height: 50%;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    margin-left: 3%;
+}
+a:hover{
+    color:plum;
+}
+
+

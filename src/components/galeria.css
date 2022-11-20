@@ -1,0 +1,19 @@
+.colorcard{
+    color: #CE7578;
+}
+
+.card-gal{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.h1-gal{
+    color: #CE7578;
+    padding-top: 8% !important;
+}
+
+.a-galeria{
+    color: #CE7578;
+    margin-left: 0;
+}
